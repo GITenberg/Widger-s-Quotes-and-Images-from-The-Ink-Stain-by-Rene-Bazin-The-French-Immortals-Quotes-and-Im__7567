@@ -1,21 +1,27 @@
 _repo: Widger-s-Quotes-and-Images-from-The-Ink-Stain-by-Rene-Bazin-The-French-Immortals-Quotes-and-Im__7567
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Widger, David
-      birthdate: &id001 1932
+      birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 7567-h/images/cover.jpg
 creator:
   author:
     agent_name: Bazin, René
     alias: Bazin, Rene
     birthdate: 1853
-    deathdate: *id001
+    deathdate: 1932
     gutenberg_agent_id: '1348'
     url: http://www.gutenberg.org/2009/agents/1348
     wikipedia: http://en.wikipedia.org/wiki/René_Bazin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7567#Widger-s-Quotes-and-Images-from-The-Ink-Stain-by-Rene-Bazin-The-French-Immortals-Quotes-and-Im_
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
 identifiers:
